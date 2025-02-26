@@ -17,3 +17,26 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut:
 
 XAMPP/WAMP (atau server lokal lain yang mendukung PHP dan MySQL).
 Database MySQL yang sudah dikonfigurasi dengan tabel yang diperlukan.
+
+Cara Penggunaan
+Menambah Data Siswa:
+
+Klik tombol "Tambah Data" pada halaman utama.
+Isi formulir dengan NISN, nama lengkap, dan alamat siswa.
+Klik "Simpan" untuk menambahkan data siswa.
+Melihat Data Siswa:
+
+Data siswa akan ditampilkan dalam tabel pada halaman utama. Setiap baris menunjukkan data siswa yang tersimpan.
+Mengedit Data Siswa:
+
+Klik tombol "Edit" pada baris data siswa yang ingin diubah.
+Perbarui informasi yang diperlukan dan klik "Simpan" untuk menyimpan perubahan.
+Menghapus Data Siswa:
+
+Klik tombol "Hapus" pada baris data siswa yang ingin dihapus.
+Data siswa akan dihapus dari database setelah konfirmasi.
+Kontribusi
+Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan buat pull request dengan perbaikan atau fitur baru.
+
+Lisensi
+Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail lebih lanjut.
