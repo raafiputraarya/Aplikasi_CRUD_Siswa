@@ -1,5 +1,5 @@
-Aplikasi CRUD Data Siswa dengan Bootstrap dan PHP
-Aplikasi CRUD (Create, Read, Update, Delete) ini dirancang untuk mengelola data siswa dengan menggunakan PHP di sisi server dan Bootstrap untuk tampilan antarmuka yang responsif. Aplikasi ini memungkinkan pengguna untuk menambah, mengedit, melihat, dan menghapus data siswa dengan mudah.
+# Aplikasi CRUD Data Siswa dengan Bootstrap dan PHP
+# Aplikasi CRUD (Create, Read, Update, Delete) ini dirancang untuk mengelola data siswa dengan menggunakan PHP di sisi server dan Bootstrap untuk tampilan antarmuka yang responsif. Aplikasi ini memungkinkan pengguna untuk menambah, mengedit, melihat, dan menghapus data siswa dengan mudah.
 
 Fitur
 Tambah Data Siswa: Menambah data siswa baru dengan informasi seperti NISN, nama lengkap, dan alamat.
